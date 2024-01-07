@@ -73,10 +73,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/pponali"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/pponali" /></a><a href="https://ko-fi.com/https://ko-fi.com/pponali"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/pponali" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pponali&show_icons=true&locale=en&layout=compact" alt="pponali" /></p>
+<p>
+  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pponali&show_icons=true&locale=en&layout=compact" alt="pponali" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pponali&show_icons=true&locale=en" alt="pponali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pponali&" alt="pponali" /></p>
-
+<br></br>
