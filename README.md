@@ -37,9 +37,8 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **ATG, Hybris, Microservices, Springboot**
 
-- 📫 How to reach me **p.ponali@gmail.com**
+- 📫 How to reach me **p.ponali@yahoo.com**
 
-- 📄 Know about my experiences [https://purple-ainslee-31.tiiny.site/](https://purple-ainslee-31.tiiny.site/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
