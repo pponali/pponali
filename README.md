@@ -3,24 +3,9 @@ https://github.com/pponali
 
 <!-- ### Hi there 👋 -->
 
-<!--
-**pponali/pponali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 <h1 align="center">Hi 👋, I'm Prakash Ponali</h1>
-<h3 align="center">A passionate Back end develope</h3>
+<h3 align="center">A passionate Back end developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pponali&label=Profile%20views&color=0e75b6&style=flat" alt="pponali" /> </p>
 
@@ -28,11 +13,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/ponali231" target="blank"><img src="https://img.shields.io/twitter/follow/ponali231?logo=twitter&style=for-the-badge" alt="ponali231" /></a> </p>
 
-- 🔭 I’m currently working on **Microserivces projects**
+- 🔭 I'm currently working on **Microservices projects**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I'm currently learning **Machine learning & Claude AI**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I'm looking to collaborate on **open source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pponali](https://github.com/pponali)
 
@@ -44,13 +29,28 @@ Here are some ideas to get you started:
 
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://codepen.io/pponali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pponali" height="30" width="40" /></a><a href="https://dev.to/pponali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/pponali" height="30" width="40" /></a><a href="https://twitter.com/ponali231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ponali231" height="30" width="40" /></a><a href="https://www.linkedin.com/in/prakash-ponali-75ab9b17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prakash-ponali-75ab9b17/" height="30" width="40" /></a><a href="https://stackoverflow.com/users/pponali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pponali" height="30" width="40" /></a><a href="https://codesandbox.io/dashboard/recent?workspace=6fd7d6a3-82e8-4425-88f3-d07cb38f23c7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/recent?workspace=6fd7d6a3-82e8-4425-88f3-d07cb38f23c7" height="30" width="40" /></a><a href="https://www.kaggle.com/prakashponali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/prakashponali" height="30" width="40" /></a><a href="https://dribbble.com/pponali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/pponali" height="30" width="40" /></a><a href="https://www.behance.net/prakashponali1/editor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/prakashponali1/editor" height="30" width="40" /></a><a href="https://hashnode.com/@pponali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@pponali" height="30" width="40" /></a><a href="https://medium.com/@pponali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@pponali" height="30" width="40" /></a><a href="https://studio.youtube.com/channel/ucx7uowhdpdz3kmsdyt_ywag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://studio.youtube.com/channel/ucx7uowhdpdz3kmsdyt_ywag" height="30" width="40" /></a><a href="https://www.codechef.com/users/pponali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/pponali" height="30" width="40" /></a><a href="https://www.hackerrank.com/profile/p_ponali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/p_ponali1" height="30" width="40" /></a><a href="https://codeforces.com/profile/pponali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/pponali" height="30" width="40" /></a><a href="https://leetcode.com/pponali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pponali/" height="30" width="40" /></a><a href="https://auth.geeksforgeeks.org/user/pponeons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pponeons" height="30" width="40" /></a><a href="https://www.topcoder.com/members/https://profiles.topcoder.com/pponali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="https://profiles.topcoder.com/pponali" height="30" width="40" /></a><a href="https://discord.gg/pponali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pponali" height="30" width="40" /></a>
+<p align="center">
+<a href="https://codepen.io/pponali" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pponali" height="30" width="40" /></a> &nbsp;
+<a href="https://dev.to/pponali" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a> &nbsp;
+<a href="https://twitter.com/ponali231" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ponali231" height="30" width="40" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/prakash-ponali-75ab9b17/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> &nbsp;
+<a href="https://stackoverflow.com/users/pponali" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a> &nbsp;
+<a href="https://codesandbox.io/dashboard/recent?workspace=6fd7d6a3-82e8-4425-88f3-d07cb38f23c7" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox" height="30" width="40" /></a> &nbsp;
+<a href="https://www.kaggle.com/prakashponali" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a> &nbsp;
+<a href="https://dribbble.com/pponali" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribbble" height="30" width="40" /></a> &nbsp;
+<a href="https://www.behance.net/prakashponali1/editor" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behance" height="30" width="40" /></a> &nbsp;
+<a href="https://hashnode.com/@pponali" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="hashnode" height="30" width="40" /></a> &nbsp;
+<a href="https://medium.com/@pponali" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a> &nbsp;
+<a href="https://studio.youtube.com/channel/ucx7uowhdpdz3kmsdyt_ywag" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a> &nbsp;
+<a href="https://www.codechef.com/users/pponali" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a> &nbsp;
+<a href="https://www.hackerrank.com/profile/p_ponali1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a> &nbsp;
+<a href="https://codeforces.com/profile/pponali" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a> &nbsp;
+<a href="https://leetcode.com/pponali/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a> &nbsp;
+<a href="https://auth.geeksforgeeks.org/user/pponeons" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a> &nbsp;
+<a href="https://www.topcoder.com/members/https://profiles.topcoder.com/pponali" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="topcoder" height="30" width="40" /></a> &nbsp;
+<a href="https://discord.gg/pponali" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/pponali"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/pponali" /></a><a href="https://ko-fi.com/pponali"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/pponali" /></a></p><br><br>
 <p>
-  
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pponali&show_icons=true&locale=en&layout=compact" alt="pponali" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pponali&show_icons=true&locale=en" alt="pponali" /></p>
