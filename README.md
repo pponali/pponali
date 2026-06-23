@@ -29,12 +29,26 @@
 **Architecture highlights:**
 - **28 Spring Boot microservices** (100% parity migration from Node.js monolith) — auth, marketplace, crop, weather, diagnosis, notifications, payments, and more
 - **162 AI agents** defined as Claude Code subagents — engineering, QA, product, DevOps, security, ML, marketing, executive roles — orchestrated via CrewAI crews and a Virtual Software Company pattern
-- **Claude Code deeply integrated** — 162 `.claude/agents/` definitions with YAML frontmatter, hooks (SessionStart, UserPromptSubmit, PreToolUse, PostToolUse, Stop), 60+ workflows, GPS MCP server for symbol graph indexing, Render MCP for deployments
+- **Claude Code deeply integrated** — 162 `.claude/agents/` definitions with YAML frontmatter, hooks (SessionStart, UserPromptSubmit, PreToolUse, PostToolUse, Stop), GPS MCP server for symbol graph indexing, Render MCP for deployments
 - **Multi-model AI stack:** `claude-sonnet-4-6` (default), `claude-opus-4-8` (high-reasoning CFO/CTO roles), `claude-haiku-4-5` (lightweight ops), Cerebras (inference), Groq (audio transcription), Gemini
 - **LLaVA vision model** — local CPU inference for crop disease detection across 38 PlantVillage classes, with 2000+ lines of India-specific treatment database (Hindi/English/Telugu/Marathi)
 - **Multi-tenant SaaS** — PostgreSQL schema isolation per tenant, X-Tenant-Id header enforcement, row-level security
 - **Observability:** ELK Stack, Prometheus + Grafana, Spring Sleuth + Zipkin, Sentry
 - **Event streaming:** Kafka 3.7, Redis 7, PostgreSQL 14 + pgvector
+
+**Agent-driven SDLC — 110+ workflows covering the full engineering lifecycle:**
+
+| Phase | What's automated |
+|---|---|
+| **Planning** | 20 parity audit plans (auth → marketplace → weather → finance → profile), sprint backlog, PRD templates, architecture diagrams, UI specs |
+| **Development** | 9 agent-chain workflow types (WF-1 new feature → WF-9 backend bug fix) — each dispatches multi-role chains: Product Manager → Architect → Backend Dev → Mobile Dev → QA → Security Engineer |
+| **Testing** | Full-app emulator QA sweep: 7 sequential runtime agents + 16 parallel static auditors → P0/P1/P2/P3 defect triage → parallel fan-out fix dispatch per defect group |
+| **Deployment** | Module-aware deploy (WF-10/11/12): detect changed modules → Docker/Render/Vercel/Play Store → health verify → auto-rollback on failure |
+| **Monitoring** | 24/7 L1→L2→L3 agent escalation hierarchy: health scan → triage → remediate → investigate → stabilize → incident command → post-mortem |
+| **CI/CD** | 30 GitHub Actions: multi-stack CI (Node.js, Spring Boot, Flutter, Kotlin), AI-powered PR code review, CodeQL SAST, Firebase Test Lab on real devices, smoke tests on every production push |
+| **Self-improvement** | Nightly agent improvement loop: harvest GPS corrections → triage by agent → mutate prompts below 7.5 threshold → commit; real-time auto-learn stores feedback instantly; GEPA-style eval loop scores agents across 5 dimensions |
+
+**Workflow runner:** single `./workflow-runner.sh WF-N TASK-ID` dispatches full agent chain, logs every step to shared GitHub issue as paper trail.
 
 **Stack:** Java 17 / Spring Boot 3.4 · Node.js 18 / Express 5 · Flutter 3 · React 19 + Vite · Python / FastAPI · PostgreSQL · Redis · Kafka · Docker / Kubernetes · Render · Vercel
 
